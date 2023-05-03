@@ -1,0 +1,63 @@
+{
+  "navigation": [
+		{
+			"title": "About",
+			"url": "http://www.example.com/about"
+		},
+		{
+			"title": "Projects",
+			"url": "http://www.example.com/portfolio"
+		},
+		{
+			"title": "Contact",
+			"url": "http://www.example.com/contact"
+		}
+	],
+  "hero": {
+    "name": "Harsh Soni",
+    "subtitle": "I'm a Software Developer."
+  },
+  "about": {
+    "title": "About me",
+    "image": "/profile.jpeg",
+    "primary": "I'm an aspiring software engineer who loves problem-solving, coding, and developing systems that scale. I love tinkering with applications and code bases, figuring out how they work, and fixing them. I am an interest-driven, tech agnostic person with a strong work ethic and programming ability. Currently, I am learning about microservice architecture and building scalable systems.",
+    "secondary": "I love solving business / real life problems with unique algorithms and communicating complex ideas to business stakeholders. Whenever I find time, I also love to contribute to open-source, either on an existing project or by building my projects.",
+    "resume": "https://drive.google.com/file/d/1RR-DCQsSto35pS2PLV0p7WcfULz-ngpf/view?usp=sharing"
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "E-commerce [Microservices]",
+        "description": "An e-commerce backend built using microservice architecture, with an immediately consistent ordering system.",
+        "url": "#",
+        "github": "https://github.com/harsh020/ecommerce-microservice",
+        "image": "/ecommerce-microservice.jpg"
+      },
+      {
+				"title": "cxd",
+				"description": "A chest x-ray diagnosis application build on top a research we conducted by training several deep CNNs to diagnose chest radiographs.",
+				"url": "https://link.springer.com/article/10.1007/s12539-023-00562-2",
+                "github": "https://github.com/harsh020/cxd",
+				"image": "/cxd.jpg"
+			},
+      {
+				"title": "synthetic-metric",
+				"description": "A python package to compute quality and privacy of synthetic data.",
+				"url": "#",
+                "github": "https://github.com/harsh020/synthetic_metric",
+				"image": "/pypi.jpg"
+			}
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
+    "formId": "xeqwnkby"
+  },
+  "footer": {
+		"linkedin": "https://www.linkedin.com/in/harsh-soni-020",
+		"github": "https://www.github.com/harsh020",
+        "leetcode": "https://www.leetcode.com/harsh020"
+  }
+}
